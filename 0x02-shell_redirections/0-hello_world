@@ -1,2 +1,4 @@
-#!/bin/bash
-echo "Hello, World" >> 0-hello_world.txt
+0-hello_world
+README.md
+0-hello_world
+README.md
