@@ -1,1 +1,1 @@
-Scrip tasks for 0x02 shell
+Script tasks for 0x02 shell
